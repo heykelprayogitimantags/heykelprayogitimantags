@@ -31,7 +31,8 @@
 
 ## 📈 GitHub Stats
 
-![heykelprayogitimantags](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Github](https://github-readme-stats.vercel.app/api?username=heykelprayogitimantags&show_icons=true&theme=radical)
+
 
 
 ---
