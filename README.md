@@ -38,21 +38,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=heykelprayogitimantags&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 
-
-
----
-
-
-
----
-
-## 📫 Let's Connect!
-
-[![Linkedln](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heykelprayogitimanta)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hykl.gtg.s)
-📧 Email: heykelprayogibusiness@gmail.com
-
----
-
-> *"Building software isn't just about code – it's about solving real problems with creativity and logic."*
-
