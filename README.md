@@ -29,8 +29,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![Heykel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykelprayogitimantags&show_icons=true&theme=radical&hide=contribs)
