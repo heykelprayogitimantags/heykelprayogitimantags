@@ -31,7 +31,14 @@
 
 ## 📈 GitHub Stats
 
-![Github](https://github-readme-stats.vercel.app/api?username=heykelprayogitimantags&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Heykel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykelprayogitimantags&show_icons=true&theme=radical&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heykelprayogitimantags&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=heykelprayogitimantags&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
 
 
 
