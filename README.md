@@ -52,7 +52,7 @@ I'm always open to collaborating on interesting projects or discussing technolog
 ### 📫 Get In Touch
 
 - 💼 Open to internship and collaboration opportunities
-- 📧 Reach me at: [your.email@example.com]
+- 📧 Reach me at: [heykelprayogi123@gmail.com]
 - 📍 Location: Medan, North Sumatra, Indonesia
 
 ---
