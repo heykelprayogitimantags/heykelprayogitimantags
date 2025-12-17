@@ -1,66 +1,93 @@
-# Hi there, I'm Heykel Prayogi Timanta G.S. 👋
+# 👋 Hi, I'm **Heykel Prayogi Timanta G.S.**
 
-## Software Engineering Technology Student | Full-Stack Developer | GIS Enthusiast
+### 🚀 Full-Stack & Mobile Developer | Software Engineering Technology Student | GIS Enthusiast
 
-I'm a D4 Software Engineering Technology student based in Medan, Indonesia, with a passion for creating innovative solutions through web development, mobile applications, and geographic information systems. I enjoy transforming ideas into functional, user-friendly applications that solve real-world problems.
+I'm a **D4 Software Engineering Technology student** based in **Medan, Indonesia**, passionate about building **scalable web applications**, **cross-platform mobile apps**, and **GIS-based solutions**. I enjoy turning complex problems into clean, efficient, and user‑friendly digital products.
 
-### 🔭 Current Focus
-- Building cross-platform mobile applications with Flutter
-- Developing scalable web solutions
-- Exploring GIS technologies and spatial data visualization
-- Contributing to open-source projects
+---
 
-### 💻 Technical Skills
+## 🧑‍💻 About Me
 
-**Programming Languages**  
+* 🎓 Software Engineering Technology (D4)
+* 💻 **Full-Stack Developer** (Web & Mobile)
+* 📱 Flutter Mobile Developer
+* 🌍 GIS & Spatial Data Enthusiast
+* 🔍 Interested in system design, UI/UX, and real‑world problem solving
+* 🤝 Open to **internships**, **freelance**, and **collaborative projects**
+
+---
+
+## 🔭 Current Focus
+
+* Building **Flutter** mobile applications (Firebase‑powered)
+* Developing **full‑stack web systems**
+* Designing **RESTful APIs** and database architectures
+* Exploring **GIS visualization & spatial analysis**
+* Improving code quality, scalability, and performance
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
 `Dart` `JavaScript` `PHP` `SQL`
 
-**Frameworks & Libraries**  
+### ⚙️ Frameworks & Platforms
+
 `Flutter` `Firebase` `MySQL`
 
-**Development Tools**  
-`Git` `GitHub` `Figma` `QGIS` `VS Code`
+### 🧰 Tools & Software
 
-**Core Competencies**
-- Mobile Application Development (Flutter)
-- Web Development (Frontend & Backend)
-- Database Design & Management
-- UI/UX Design
-- Geographic Information Systems (GIS)
-- Version Control & Collaboration
+`Git` `GitHub` `VS Code` `Figma` `QGIS`
 
-### 📈 GitHub Analytics
+### 🧠 Core Skills
+
+* Full‑Stack Web Development
+* Mobile App Development (Flutter)
+* Backend & Database Design
+* API Integration
+* UI/UX Design & Prototyping
+* GIS Mapping & Spatial Data Processing
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykelprayogitimantags&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heykelprayogitimantags&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykelprayogitimantags\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=heykelprayogitimantags&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heykelprayogitimantags\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=heykelprayogitimantags\&theme=tokyonight\&hide_border=true)
 
 </div>
 
-### 🤝 Let's Connect
+---
 
-I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+I'm always open to discussions, collaborations, and learning opportunities.
 
-### 📫 Get In Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:heykelprayogi123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://yourportfolio.com)
 
-- 💼 Open to internship and collaboration opportunities
-- 📧 Reach me at: [heykelprayogi123@gmail.com]
-- 📍 Location: Medan, North Sumatra, Indonesia
+---
+
+## 📫 Contact Info
+
+* 📧 **Email:** [heykelprayogi123@gmail.com](mailto:heykelprayogi123@gmail.com)
+* 📍 **Location:** Medan, North Sumatra, Indonesia
+* 💼 **Status:** Open for internship & project collaboration
 
 ---
 
 <div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-![Profile Views](https://komarev.com/ghpvc/?username=heykelprayogitimantags&color=blueviolet&style=flat-square)
+> *"Clean code always looks like it was written by someone who cares."* – Robert C. Martin
+
+![Profile Views](https://komarev.com/ghpvc/?username=heykelprayogitimantags\&color=blueviolet\&style=flat-square)
 
 </div>
