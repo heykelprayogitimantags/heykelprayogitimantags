@@ -1,4 +1,4 @@
-# Hi, I'm Heykel 👋
+# Hi, I'm Heykel Prayogi Timanta G.S 👋
 
 🎓 Software Engineering Technology (D4) Student  
 💻 Full-Stack & Mobile Developer  
