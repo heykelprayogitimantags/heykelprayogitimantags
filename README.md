@@ -55,7 +55,7 @@ I'm a passionate software engineering student specializing in building **scalabl
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology 
 
 <div align="center">
 
