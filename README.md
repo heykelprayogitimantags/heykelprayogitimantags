@@ -1,8 +1,9 @@
 <div align="center">
 
 # 👨‍💻 Heykel Prayogi Timanta G.S
+# Hello Semuaaaa
 
-### Software Engineer | Full-Stack Developer | Mobile Specialist
+### Software Engineer | Full-Stack Developer | Mobile Development
 
 [![Email](https://img.shields.io/badge/Email-heykelprayogi123%40gmail.com-red?style=flat-square&logo=gmail)](mailto:heykelprayogi123@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Medan%2C%20Indonesia-blue?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Medan,Indonesia)
