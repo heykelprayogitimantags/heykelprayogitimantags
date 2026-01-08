@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👨‍💻 Heykel Prayogi Timanta G.S
-# Hello Semuaaaa
 
 ### Software Engineer | Full-Stack Developer | Mobile Development
 
