@@ -15,7 +15,7 @@
 ## 🎯 About Me
 
 ```typescript
-const heykel = {
+const heykel prayogi timanta g.s = {
     education: "Software Engineering Technology (D4)",
     location: "Medan, Indonesia",
     currentFocus: ["Full-Stack Development", "Mobile Engineering", "Cloud Architecture"],
